@@ -1,15 +1,16 @@
 ModificationType: Patch
 Name: Empire Pacific Alliance
-Version: Beta 0.9c_aux01
-SimpleDownloadLink: https://www.moddb.com/mods/rotrempire-pacific-alliance-submod/downloads/epa-9b-posfinaledition
+Version: Beta 0.9.02
+SimpleDownloadLink: https://www.dropbox.com/scl/fo/t6lt50vb1fgycytf4xiif/APX-3PT-5IKp_Ayfn-gZZe0?rlkey=o590muu97c3tp9rhvbw7r2zf3&st=zsdmjh6o&dl=0
 UIImageSourceLink: ''
 DiscordLink: ''
 ModDBLink: ''
-NewsLink: https://github.com/GerardoDMBX/EmpirePacificAlliance/tree/main
-DependenceName: C&C Rise of the reds Beta public 1.87_2.0
-S3HostLink: s3://empirepacificalliance
-S3BucketName: empirepacificalliance
-S3FolderName: C&CEPA/
+NewsLink: https://www.moddb.com/mods/rotrempire-pacific-alliance-submod/articles
+DependenceName: Rise Of The Reds
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: empirepacificalliance 
+S3FolderName: C&CEPA
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
+
